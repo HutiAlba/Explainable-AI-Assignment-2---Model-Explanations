@@ -1,0 +1,34 @@
+name: xai_model_explanation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - notebook
+  - jupyterlab
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - plotly
+  - altair
+  - tensorflow
+  - keras
+  - pillow
+  - torch
+  - torchvision
+  - tqdm
+  - lime
+  - scikit-image
+  - glob2
+  - google-colab
+  - zipfile36
+  - pip
+  - pip:
+      - opencv-python
+      - tensorflow-addons
+      - torch-onnx
+      - skimage
