@@ -10,15 +10,6 @@ For the intermediate submission, please enter the group and dataset information.
 
 **Team Name:** Lazy Legends
 
-**Group Members**
-
-| Student ID | First Name | Last Name | E-Mail                | Workload [%] |
-| ---------- | ---------- | --------- | --------------------- | ------------ |
-| K12331691  | Alba       | Huti      | albahuti23@gmail.com  | 25%          |
-| K51841985  | Hannah     | Aster     | hannah.aster@gmx.at   | 25%          |
-| K12317779  | Liza       | Lengyel   | lengyellyza@gmail.com | 25%          |
-| K12336312  | Petra      | Jósár     | jpetra0314@gmail.com  | 25%          |
-
 ## Final Submission
 
 The submission is done with this repository. Make to push your code until the deadline.
